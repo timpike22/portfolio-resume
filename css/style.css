@@ -319,6 +319,10 @@ header.masthead {
         transform: rotate(90deg);
         background-color: #212529; }
 
+#portfolio .portfolio-caption a {
+  color: #fed136;
+}
+
 .figure {
 margin-bottom: 10%;
 padding-bottom: 5%;
